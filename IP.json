@@ -26,7 +26,7 @@
         "pr2": {
           "act": true,
           "config": {
-            "print": "HI2"
+            "print": ">>>>>>>>>>>>>>>>"
           }
         }
       }
