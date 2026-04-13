@@ -7,6 +7,12 @@
           "config": {
             "print": ">>>>>"
           }
+        },
+        {
+          "act": true,
+          "config": {
+            "print": ">>>"
+          }
         }
       ]
     },
@@ -17,11 +23,23 @@
           "config": {
             "print": "HI4"
           }
+        },
+        {
+          "act": true,
+          "config": {
+            "print": "HI4"
+          }
         }
       ]
     },
     "192.168.1.9": {
       "pr2": [
+        {
+          "act": true,
+          "config": {
+            "print": "<"
+          }
+        },
         {
           "act": true,
           "config": {
