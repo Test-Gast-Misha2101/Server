@@ -1,57 +1,75 @@
 {
   "IP": [
-    ["1", "192.168.1.7"],
-    ["2", "192.168.1.8"],
-    ["3", "192.168.1.9"]
+    [
+      "1",
+      "192.168.1.7"
+    ],
+    [
+      "2",
+      "192.168.1.8"
+    ],
+    [
+      "3",
+      "192.168.1.9"
+    ]
   ],
   "Redact": [
-    ["192.168.1.7", {
-      "pr1":{
-        "act":true,
-        "config":{
-          "print":"HI"
-        }
-      },
-      "pr2":{
-        "act":true,
-        "config":{
-          "print":"HI2"
-        }
-      }
-    }],
-    ["192.168.1.8", {
-      "pr1":{
-        "act":true,
-        "config":{
-          "print":"HI3"
-        }
-      },
-      "pr2":{
-        "act":true,
-        "config":{
-          "print":"HI4"
-        }
-      },
-      "pr3":{
-        "act":true,
-        "config":{
-          "print":"HI5"
+    [
+      "192.168.1.7",
+      {
+        "pr1": {
+          "act": true,
+          "config": {
+            "print": "HI"
+          }
+        },
+        "pr2": {
+          "act": true,
+          "config": {
+            "print": "HI2"
+          }
         }
       }
-    }],
-    ["192.168.1.9", {
-      "pr2":{
-        "act":true,
-        "config":{
-          "print":"HI6"
-        }
-      },
-      "pr3":{
-        "act":true,
-        "config":{
-          "print":"HI7"
+    ],
+    [
+      "192.168.1.8",
+      {
+        "pr1": {
+          "act": true,
+          "config": {
+            "print": "HI3"
+          }
+        },
+        "pr2": {
+          "act": true,
+          "config": {
+            "print": "HI4"
+          }
+        },
+        "pr3": {
+          "act": true,
+          "config": {
+            "print": "HI5"
+          }
         }
       }
-    }]
+    ],
+    [
+      "192.168.1.9",
+      {
+        "pr2": {
+          "act": true,
+          "config": {
+            "print": "<<<<<<<<<<<<<<<<<<<<<<<<"
+          }
+        },
+        "pr3": {
+          "act": true,
+          "config": {
+            "print": "HI7"
+          }
+        }
+      }
+    ]
   ]
 }
