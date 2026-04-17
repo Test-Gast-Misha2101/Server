@@ -6,7 +6,7 @@
         "pr1": {
           "act": true,
           "config": {
-            "print": "HI"
+            "print": "H"
           }
         },
         "pr2": {
