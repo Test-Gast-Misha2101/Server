@@ -18,7 +18,7 @@
       "pr1": {
         "act": true,
         "config": {
-          "print": "H1"
+          "print": "H"
         }
       },
       "pr2": {
