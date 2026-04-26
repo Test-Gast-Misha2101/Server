@@ -17,10 +17,6 @@
         "act": true,
         "config": {}
       },
-      "pr4": {
-        "act": true,
-        "config": {}
-      },
       "pr5": {
         "act": true,
         "config": {}
@@ -40,10 +36,6 @@
         }
       },
       "pr3": {
-        "act": true,
-        "config": {}
-      },
-      "pr4": {
         "act": true,
         "config": {}
       }
