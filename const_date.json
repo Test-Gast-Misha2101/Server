@@ -1,3 +1,40 @@
 {
-  
+  "date": {
+    "90753610-6D1B-1260-103A-74D02B8FBE51": {
+      "pr1": {
+        "act": true,
+        "config": {
+          "print": "H2"
+        }
+      },
+      "pr2": {
+        "act": true,
+        "config": {
+          "print": "T88"
+        }
+      },
+      "pr3": {
+        "act": true,
+        "config": {}
+      }
+    },
+    "20753610-6D1B-1260-103A-74D02B8FBE51": {
+      "pr1": {
+        "act": true,
+        "config": {
+          "print": "H1"
+        }
+      },
+      "pr2": {
+        "act": true,
+        "config": {
+          "print": "T1"
+        }
+      },
+      "pr3": {
+        "act": true,
+        "config": {}
+      }
+    }
+  }
 }
