@@ -2,7 +2,7 @@
   "Redact": {
     "90753610-6D1B-1260-103A-74D02B8FBE51": {
       "pr1": {
-        "act": false,
+        "act": true,
         "config": {
           "print": "H2"
         }
