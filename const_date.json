@@ -1,40 +1,65 @@
 {
   "date": {
     "90753610-6D1B-1260-103A-74D02B8FBE51": {
-      "pr1": [{
-        "act": true,
-        "config": {
-          "print": "H2"
-        }
-      }, "Admin"],
-      "pr2": [{
-        "act": true,
-        "config": {
-          "print": "T88"
-        }
-      }, "Admin"],
-      "pr3": [{
-        "act": true,
-        "config": {}
-      }, "Admin"]
+      "pr1": [
+        {
+          "act": true,
+          "config": {
+            "print": "H2"
+          }
+        },
+        "Admin"
+      ],
+      "pr2": [
+        {
+          "act": true,
+          "config": {
+            "print": "T88"
+          }
+        },
+        "Admin"
+      ],
+      "pr3": [
+        {
+          "act": true,
+          "config": {}
+        },
+        "Admin"
+      ]
     },
     "20753610-6D1B-1260-103A-74D02B8FBE51": {
-      "pr1": [{
-        "act": true,
-        "config": {
-          "print": "H1"
-        }
-      }, "Admin"],
-      "pr2": [{
-        "act": true,
-        "config": {
-          "print": "T1"
-        }
-      }, "Admin"],
-      "pr3": [{
-        "act": true,
-        "config": {}
-      }, "Admin"]
+      "pr1": [
+        {
+          "act": true,
+          "config": {
+            "print": "H1"
+          }
+        },
+        "Admin"
+      ],
+      "pr2": [
+        {
+          "act": true,
+          "config": {
+            "print": "T1"
+          }
+        },
+        "Admin"
+      ],
+      "pr3": [
+        {
+          "act": true,
+          "config": {}
+        },
+        "Admin"
+      ],
+      "pr4": [
+        {
+          "act": true,
+          "config": {}
+        },
+        "Ban"
+      ]
     }
   }
 }
