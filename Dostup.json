@@ -1,5 +1,7 @@
 {
   "Roots": {
-    "IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=": "Ban"
+    "IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=": {
+      "1": "Ban"
+    }
   }
 }
