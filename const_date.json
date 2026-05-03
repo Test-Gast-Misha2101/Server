@@ -25,6 +25,15 @@
           "config": {}
         },
         "Admin"
+      ],
+      "pr4": [
+        {
+          "act": true,
+          "config": {
+            "print": "HI"
+          }
+        },
+        "Ban"
       ]
     },
     "20753610-6D1B-1260-103A-74D02B8FBE51": {
