@@ -15,7 +15,9 @@
       },
       "pr3": {
         "act": true,
-        "config": {}
+        "config": {
+          "print": "HI"
+        }
       },
       "pr4": {
         "act": true,
