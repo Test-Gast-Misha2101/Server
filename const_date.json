@@ -26,13 +26,6 @@
         },
         "Admin"
       ],
-      "pr4": [
-        {
-          "act": true,
-          "config": {}
-        },
-        "Ban"
-      ],
       "pr5": [
         {
           "act": true,
