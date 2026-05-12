@@ -15,7 +15,9 @@
       },
       "pr3": {
         "act": true,
-        "config": {}
+        "config": {
+          "print": "HI"
+        }
       }
     },
     "20753610-6D1B-1260-103A-74D02B8FBE51": {
