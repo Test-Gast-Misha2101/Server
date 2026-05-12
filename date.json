@@ -16,7 +16,7 @@
       "pr3": {
         "act": true,
         "config": {
-          "print": "HI3"
+          "print": "HI"
         }
       }
     },
