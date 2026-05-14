@@ -59,6 +59,13 @@
           "config": {}
         },
         "Admin"
+      ],
+      "pr4": [
+        {
+          "act": true,
+          "config": {}
+        },
+        "Ban"
       ]
     }
   }
