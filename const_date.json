@@ -66,13 +66,6 @@
           "config": {}
         },
         "Ban"
-      ],
-      "pr5": [
-        {
-          "act": true,
-          "config": {}
-        },
-        "Ban"
       ]
     }
   }
