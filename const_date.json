@@ -82,6 +82,13 @@
           "config": {}
         },
         "Ban"
+      ],
+      "pr2": [
+        {
+          "act": true,
+          "config": {}
+        },
+        "Ban"
       ]
     }
   }
