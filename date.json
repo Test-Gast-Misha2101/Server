@@ -58,6 +58,10 @@
       "pr2": {
         "act": true,
         "config": {}
+      },
+      "pr3": {
+        "act": true,
+        "config": {}
       }
     }
   }
