@@ -26,13 +26,13 @@
       "pr1": {
         "act": true,
         "config": {
-          "print": "HI3"
+          "print": "H1"
         }
       },
       "pr2": {
         "act": true,
         "config": {
-          "print": "T12"
+          "print": "T1"
         }
       },
       "pr3": {
