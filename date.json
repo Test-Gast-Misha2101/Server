@@ -26,7 +26,7 @@
       "pr1": {
         "act": true,
         "config": {
-          "print": "HI"
+          "print": "H1"
         }
       },
       "pr2": {
@@ -51,9 +51,7 @@
     "03C00218-044D-05C2-C006-8B0700080009": {
       "pr1": {
         "act": true,
-        "config": {
-          "print": "Test"
-        }
+        "config": {}
       },
       "pr2": {
         "act": true,
